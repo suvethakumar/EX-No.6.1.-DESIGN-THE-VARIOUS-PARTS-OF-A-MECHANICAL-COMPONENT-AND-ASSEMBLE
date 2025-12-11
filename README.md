@@ -1,6 +1,6 @@
 # EX-No.6.1. DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
 
-## DATE:
+## DATE:11.12.25
 
 ## AIM: 
 To Design the various parts of a mechanical component and assemble it using a bottom-up approach then convert it into the orthographic view
@@ -63,6 +63,9 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
 
 ## OUTPUT:
+<img width="907" height="675" alt="Screenshot 2025-12-09 105336" src="https://github.com/user-attachments/assets/52b9c45f-c3a9-433e-a389-e6f5e8914202" />
+<img width="1012" height="710" alt="Screenshot 2025-12-09 105825" src="https://github.com/user-attachments/assets/beebeefd-142b-4de1-8704-f450c9e55f75" />
+
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
